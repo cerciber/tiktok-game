@@ -73,9 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/MegascansMeadowPack/Leaf_Pile_03
-Content/MegascansMeadowPack/Master_Materials
-Content/MegascansMeadowPack/Showcase
 Content/MegascansMeadowPack/Tall_Grass_01
 Content/MegascansMeadowPack/Tall_Grass_02
 Content/MegascansMeadowPack/Tall_Grass_03
